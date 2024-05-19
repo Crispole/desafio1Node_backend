@@ -12,3 +12,9 @@ Para ejercutar el desafio debes:
 3.- Para leer la cita debes: ejecutar node + index.js + leer y aparecerán todas las citas registradas.
 
 4.- Para vaciar las citas debe: ejecutar node + index.js + vaciar y vaciará todo lo creado
+
+
+Ventajas del código: 
+Modularidad: Al encapsular la lógica en la función ejecutarComando, el código se vuelve más modular y reutilizable.
+Claridad: La desestructuración de los argumentos hace que el código sea más claro y fácil de entender.
+Mantenibilidad: La estructura modular facilita futuras modificaciones y mantenimiento del código.
