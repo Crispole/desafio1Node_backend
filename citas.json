@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "nombre_animal": "Fidel",
+    "edad": "4 años",
+    "tipo_animal": "Perro mestizo",
+    "color": "Café",
+    "enfermedad": "No come"
+  }
+]
